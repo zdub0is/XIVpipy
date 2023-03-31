@@ -1,0 +1,4 @@
+Error calculating margin: Traceback (most recent call last):
+  File "/home/runner/XIV-PI/margin_calc.py", line 34, in calcMargin
+    i["marketboard"][str(worldID)]["saleVelocity"],
+KeyError: '34'
